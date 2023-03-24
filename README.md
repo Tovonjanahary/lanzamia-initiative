@@ -4,7 +4,7 @@
 
 ![](images/article.png)
 
-## Liste des produits avec des filtes
+## Liste des produits avec des filtres
 ![](images/listeProduit.png)
 
 ## Ajout d'un nouveau produit
